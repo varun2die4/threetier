@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "mohantest123.tk",
+        "Name": "www.mohantest123.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
